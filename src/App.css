@@ -1,0 +1,46 @@
+
+
+.calculator-body {
+  width: 100%;
+  max-width: 400px;
+  overflow: hidden ;
+  background-color: #FFF;
+  border-radius: 16px;
+  
+  
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 16px;
+}
+
+button {
+
+  appearance: none;
+  border: none;
+  outline:none;
+  color: #FFF;
+  font-size: 20px;
+  padding: 16px;
+  cursor: pointer;
+  transition: 0.4s;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  
+}
+
+button:hover {
+  opacity: 50%;
+}
+
+h1 {
+  font-size: 51px;
+  color: #3F4B36;
+  font-weight: 900;
+}

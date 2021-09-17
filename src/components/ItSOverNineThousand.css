@@ -1,0 +1,14 @@
+
+.Over9000 {
+    position: absolute;
+}
+
+.Over9000 h1 {
+    color: #ACECA1;
+    box-shadow: 15px 15px 15px;
+    background-color: #3F4B36;
+    font-weight: 700;
+    font-size: 6vh;
+    margin-top: 7%;
+    border-radius: 14px 14px 14px;
+}
